@@ -27,17 +27,17 @@
   </tr>
 </table>
 
-- **[gander](https://github.com/gander?tab=repositories)**
-- [gander-actions](https://github.com/orgs/gander-actions/repositories)
-- [gander-apis](https://github.com/orgs/gander-apis/repositories)
-- [gander-data](https://github.com/orgs/gander-data/repositories)
-- [gander-labs](https://github.com/orgs/gander-labs/repositories)
-- [gander-mcp](https://github.com/orgs/gander-mcp/repositories)
-- [gander-n8n](https://github.com/orgs/gander-n8n/repositories)
-- [gander-pages](https://github.com/orgs/gander-pages/repositories)
-- [gander-schemas](https://github.com/orgs/gander-schemas/repositories)
-- [gander-settings](https://github.com/orgs/gander-settings/repositories)
-- [gander-skills](https://github.com/orgs/gander-skills/repositories)
-- [gander-templates](https://github.com/orgs/gander-templates/repositories)
-- [gander-tools](https://github.com/orgs/gander-tools/repositories)
-- *[gander-archive](https://github.com/orgs/gander-archive/repositories)*
+[![gander](https://img.shields.io/badge/gander-2ea44f?style=for-the-badge)](https://github.com/gander?tab=repositories)
+[![gander-actions](https://img.shields.io/badge/gander--actions-555555?style=for-the-badge)](https://github.com/orgs/gander-actions/repositories)
+[![gander-apis](https://img.shields.io/badge/gander--apis-555555?style=for-the-badge)](https://github.com/orgs/gander-apis/repositories)
+[![gander-data](https://img.shields.io/badge/gander--data-555555?style=for-the-badge)](https://github.com/orgs/gander-data/repositories)
+[![gander-labs](https://img.shields.io/badge/gander--labs-555555?style=for-the-badge)](https://github.com/orgs/gander-labs/repositories)
+[![gander-mcp](https://img.shields.io/badge/gander--mcp-555555?style=for-the-badge)](https://github.com/orgs/gander-mcp/repositories)
+[![gander-n8n](https://img.shields.io/badge/gander--n8n-555555?style=for-the-badge)](https://github.com/orgs/gander-n8n/repositories)
+[![gander-pages](https://img.shields.io/badge/gander--pages-555555?style=for-the-badge)](https://github.com/orgs/gander-pages/repositories)
+[![gander-schemas](https://img.shields.io/badge/gander--schemas-555555?style=for-the-badge)](https://github.com/orgs/gander-schemas/repositories)
+[![gander-settings](https://img.shields.io/badge/gander--settings-555555?style=for-the-badge)](https://github.com/orgs/gander-settings/repositories)
+[![gander-skills](https://img.shields.io/badge/gander--skills-555555?style=for-the-badge)](https://github.com/orgs/gander-skills/repositories)
+[![gander-templates](https://img.shields.io/badge/gander--templates-555555?style=for-the-badge)](https://github.com/orgs/gander-templates/repositories)
+[![gander-tools](https://img.shields.io/badge/gander--tools-555555?style=for-the-badge)](https://github.com/orgs/gander-tools/repositories)
+[![gander-archive](https://img.shields.io/badge/gander--archive-lightgrey?style=for-the-badge)](https://github.com/orgs/gander-archive/repositories)
