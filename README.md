@@ -1,43 +1,20 @@
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gander-tools">
-        <img src="https://raw.githubusercontent.com/gander-tools/.github/refs/heads/main/assets/duck.svg" alt="Gander Tools" width="96"><br>
-        Gander Tools
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gander-pages">
-        <img src="https://raw.githubusercontent.com/gander-pages/.github/refs/heads/main/assets/duck.svg" alt="Gander Pages" width="96"><br>
-        Gander Pages
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gander-labs">
-        <img src="https://raw.githubusercontent.com/gander-labs/.github/refs/heads/main/assets/duck.svg" alt="Gander Labs" width="96"><br>
-        Gander Labs
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gander-archive">
-        <img src="https://raw.githubusercontent.com/gander-archive/.github/refs/heads/main/assets/duck.svg" alt="Gander Archive" width="96"><br>
-        Gander Archive
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![gander profile](https://img.shields.io/badge/gander-profile-da9c16?style=for-the-badge)](https://github.com/gander?tab=repositories)
-[![gander actions](https://img.shields.io/badge/gander-actions-b71c1c?style=for-the-badge)](https://github.com/orgs/gander-actions/repositories)
-[![gander apis](https://img.shields.io/badge/gander-apis-00c853?style=for-the-badge)](https://github.com/orgs/gander-apis/repositories)
-[![gander data](https://img.shields.io/badge/gander-data-424242?style=for-the-badge)](https://github.com/orgs/gander-data/repositories)
-[![gander labs](https://img.shields.io/badge/gander-labs-33691e?style=for-the-badge)](https://github.com/orgs/gander-labs/repositories)
-[![gander mcp](https://img.shields.io/badge/gander-mcp-ff8a65?style=for-the-badge)](https://github.com/orgs/gander-mcp/repositories)
-[![gander n8n](https://img.shields.io/badge/gander-n8n-6200ea?style=for-the-badge)](https://github.com/orgs/gander-n8n/repositories)
-[![gander pages](https://img.shields.io/badge/gander-pages-4a148c?style=for-the-badge)](https://github.com/orgs/gander-pages/repositories)
-[![gander schemas](https://img.shields.io/badge/gander-schemas-0d47a1?style=for-the-badge)](https://github.com/orgs/gander-schemas/repositories)
-[![gander settings](https://img.shields.io/badge/gander-settings-424242?style=for-the-badge)](https://github.com/orgs/gander-settings/repositories)
-[![gander skills](https://img.shields.io/badge/gander-skills-aa00ff?style=for-the-badge)](https://github.com/orgs/gander-skills/repositories)
-[![gander templates](https://img.shields.io/badge/gander-templates-1b5e20?style=for-the-badge)](https://github.com/orgs/gander-templates/repositories)
-[![gander tools](https://img.shields.io/badge/gander-tools-e65100?style=for-the-badge)](https://github.com/orgs/gander-tools/repositories)
-[![gander archive](https://img.shields.io/badge/gander-archive-263238?style=for-the-badge)](https://github.com/orgs/gander-archive/repositories)
+<div align="center">
+<a href="https://github.com/gander"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/gander.svg" alt="Gander" width="100" height="100"></a>
+<a href="https://github.com/gander-tools"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/tools.svg" alt="Tools" width="100" height="100"></a>
+<a href="https://github.com/gander-pages"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/pages.svg" alt="Pages" width="100" height="100"></a>
+<a href="https://github.com/gander-labs"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/labs.svg" alt="Labs" width="100" height="100"></a>
+<a href="https://github.com/gander-actions"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/actions.svg" alt="Actions" width="100" height="100"></a>
+<a href="https://github.com/gander-apis"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/apis.svg" alt="APIs" width="100" height="100"></a>
+<a href="https://github.com/gander-data"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/data.svg" alt="Data" width="100" height="100"></a>
+<a href="https://github.com/gander-mcp"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/mcp.svg" alt="MCP" width="100" height="100"></a>
+<a href="https://github.com/gander-n8n"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/n8n.svg" alt="n8n" width="100" height="100"></a>
+<a href="https://github.com/gander-schemas"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/schemas.svg" alt="Schemas" width="100" height="100"></a>
+<a href="https://github.com/gander-settings"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/settings.svg" alt="Settings" width="100" height="100"></a>
+<a href="https://github.com/gander-skills"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/skills.svg" alt="Skills" width="100" height="100"></a>
+<a href="https://github.com/gander-templates"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/templates.svg" alt="Templates" width="100" height="100"></a>
+<a href="https://github.com/gander-scripts"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/scripts.svg" alt="Scripts" width="100" height="100"></a>
+<a href="https://github.com/gander-containers"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/containers.svg" alt="Containers" width="100" height="100"></a>
+<a href="https://github.com/gander-examples"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/examples.svg" alt="Examples" width="100" height="100"></a>
+<a href="https://github.com/gander-archive"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/archive.svg" alt="Archive" width="100" height="100"></a>
+<a href="https://github.com/diff-voyager"><img src="https://raw.githubusercontent.com/gander/gander/master/assets/tiles/diff-voyager.svg" alt="Diff Voyager" width="100" height="100"></a>
+</div>
